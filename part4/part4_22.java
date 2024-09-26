@@ -14,7 +14,7 @@ class MyCalculator implements  Advanced_Arithmetic {
 }
 
     public class part4_22 {
-        public static void main(String [] atgs){
+        public static void main(String [] args){
             MyCalculator o=new MyCalculator();
             System.out.print("Dvisor of the sume is:"+o.divisor_sum(999));
         }
